@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Basic HTML 1</title>
+    </head>
+    <body>
+        <h1>Welcome to My First HTML Page</h1>
+        <p>This is a paragraph of text on my basic webpage.</p>
+	    <!— Paragraph using a Color Name —->
+	    <p><font color=”pink”>This paragraph of text is styled using    a co
+ 	    <!— Paragraph using a Hex Code—>
+    	    <p><font color=“#FF5733”>This paragraph of text is styled using a 
+    </body>
+<!-- Inserted font elements with Face and Size attributes -->
+    <p><font face="Arial" size="2">This text is Arial, size 2.</font></p>
+    <p><font face="Verdana" size="4">This text is Verdana, size 4.</font></p>
+    <p><font face="Times New Roman" size="6">This text is Times New Roman, size 6.</font></p>
+	<!-- New text formatting elements -->
+    <p><b>This text is bold.</b></p>
+    <p><i>This text is italic.</i></p>
+    <p><u>This text is underlined.</u></p>
+<body>
+<p>Added another paragraph.</p>
+</body>
+</html>
